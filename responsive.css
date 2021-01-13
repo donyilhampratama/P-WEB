@@ -1,0 +1,15 @@
+@media only screen and (max-width: 426px){
+    .header{
+        margin-right: 0;
+        display: none;
+    }
+    .bodyyy .img-header{
+        background: none;
+        height: 150px;
+    }
+    .tombol-menu{
+        display: block;
+        margin-left: 90%;
+        padding-top: 80px;
+    }
+}
